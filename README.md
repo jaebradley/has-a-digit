@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/jaebradley/has-a-digit.svg?branch=master)](https://travis-ci.org/jaebradley/has-a-digit)
-[![codecov](https://codecov.io/gh/jaebradley/has-a-digit/branch/master/graph/badge.svg)](https://codecov.io/gh/jaebradley/has-a-digit)
+[![codecov](https://codecov.io/gh/jaebradley/has-a-digit/branch/master/graph/badge.svg)](https://codecov.io/gh/jaebradley/has-a-digit) [![Greenkeeper badge](https://badges.greenkeeper.io/jaebradley/has-a-digit.svg)](https://greenkeeper.io/)
 
 # has-a-digit
 
