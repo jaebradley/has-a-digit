@@ -12,7 +12,7 @@ npm install has-a-digit
 ```
 
 ```bash
-yarn install has-a-digit
+yarn add has-a-digit
 ```
 
 ## Usage
