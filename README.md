@@ -1,6 +1,8 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/jaebradley/has-a-digit.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/jaebradley/has-a-digit.svg?branch=master)](https://travis-ci.org/jaebradley/has-a-digit)
 [![codecov](https://codecov.io/gh/jaebradley/has-a-digit/branch/master/graph/badge.svg)](https://codecov.io/gh/jaebradley/has-a-digit)
+[![npm](https://img.shields.io/npm/v/has-a-digit.svg)](https://www.npmjs.com/package/has-a-digit)
+[![npm](https://img.shields.io/npm/dt/has-a-digit.svg)](https://www.npmjs.com/package/has-a-digit)
 
 # has-a-digit
 
