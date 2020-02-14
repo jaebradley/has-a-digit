@@ -4,7 +4,7 @@ describe('hasADigit', () => {
   const expectResult = ({ value, result }) => expect(hasADigit(value)).toEqual(result);
 
   describe('false', () => {
-    const expectFalse = value => expectResult({ value, result: false });
+    const expectFalse = (value) => expectResult({ value, result: false });
 
     it('false for Infinity', () => {
       expectFalse(Infinity);
@@ -36,7 +36,7 @@ describe('hasADigit', () => {
   });
 
   describe('true', () => {
-    const expectTrue = value => expectResult({ value, result: true });
+    const expectTrue = (value) => expectResult({ value, result: true });
 
     it('true for negative integer', () => {
       expectTrue(-1);

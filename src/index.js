@@ -1,12 +1,12 @@
 // eslint-disable-next-line no-self-compare
-const isFiniteNumber = value => (typeof value === 'number' && Math.abs(value) !== Infinity && value === value)
+const isFiniteNumber = (value) => (typeof value === 'number' && Math.abs(value) !== Infinity && value === value)
   || (
     !!value
     && typeof value === 'object'
     && Object.prototype.string.call(value) === '[object Number]'
   );
 
-const isString = value => typeof value === 'string'
+const isString = (value) => typeof value === 'string'
   || (
     !!value
     && typeof value === 'object'
